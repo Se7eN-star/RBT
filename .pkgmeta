@@ -1,0 +1,5 @@
+package-as: RBT
+
+ignore:
+  - .gitignore
+  - .gitattributes
